@@ -6,7 +6,7 @@ Simple Platformer Game using Vanilla Javascript with HTML Canvas and Phaser 3 Ja
 
 ## Live Site
 
-You can play the game live at [https://francis-ngo.github.io/](https://francis-ngo.github.io/).
+You can play the game live at [https://francis-ngo1.github.io/](https://francis-ngo1.github.io/).
 
 ## Technologies Used
 
